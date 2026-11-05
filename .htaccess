@@ -1,4 +1,3 @@
 DirectoryIndex index.html
-# Stare adresy .php prowadzą na nowe strony (zachowuje pozycje w Google)
 RedirectMatch 301 ^/index\.php$ /
 RedirectMatch 301 ^/(sciagnij|kontakt|ubezpieczenia|komunikacyjne|majatkowe|podrozne|nazycie|wypadkowe|zdrowotne|kredyty|gotowkowy|hipoteczny|konsolidacyjny|firmowy|refinansowy|inwestycje|tfi|ufk|whisky|wino|tlumaczenia)\.php$ /$1.html
